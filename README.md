@@ -8,7 +8,7 @@ Hej och hå!
 
 Det här projektet innehåller medvetet inbyggda defekter och ofullständigheter, eftersom det är en bas för en skoluppgift. Förvänta dig att hitta kod som kan förbättras och funktioner som inte är implementerade – det är en del av uppgiften.
 
-## Kom igång
+## Kom igång!
 
 ```bash
 git clone <repo-url>
